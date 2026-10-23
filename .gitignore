@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Code::Blocks (gerados pela IDE, nao fazem parte do codigo)
+*.cbp
+*.layout
+*.depend
+*.o
+*.exe
